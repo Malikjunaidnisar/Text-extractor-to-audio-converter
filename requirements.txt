@@ -1,0 +1,9 @@
+easyocr
+pdf2image
+gtts
+pydub
+torch
+torchvision
+torchaudio
+git+https://github.com/openai/whisper.git
+streamlit
